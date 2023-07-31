@@ -1,6 +1,6 @@
 # MLSC Team 23-24
 
-# Core Team
+## Core Team
 
 ## Domains
 1. Web
