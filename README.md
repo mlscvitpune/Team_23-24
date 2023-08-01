@@ -32,6 +32,7 @@
 
 ### App
 1. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
+2. Chinmay Inamdar (Application Development Co-Ordinator) - [GitHub](https://github.com/ChinmayInamdar), [Linkedin](www.linkedin.com/in/chinmayinamdar)
 
 ### AI/ML
 1. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
