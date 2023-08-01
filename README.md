@@ -3,6 +3,8 @@
 ## Core Team
 
 1. Soham Ratnaparkhi (President) - [GitHub](https://github.com/SohamRatnaparkhi), [Linkedin](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/), [Twitter](https://twitter.com/SohamR_7113)
+   
+2. Yash Thipsay (Vice President) - [Github](https://github.com/yashthipsay/), [Linkedin](www.linkedin.com/in/yash-thipsay-7a67a0233), [Twitter](https://twitter.com/y17187), [Hashnode](https://yblogs.hashnode.dev/)
 
 ## Domains
 
