@@ -7,6 +7,8 @@
 2. Yash Thipsay (Vice President) - [Github](https://github.com/yashthipsay/), [Linkedin](www.linkedin.com/in/yash-thipsay-7a67a0233), [Twitter](https://twitter.com/y17187), [Hashnode](https://yblogs.hashnode.dev/)
 
 3. Bhavya Shah (Mangagement Head) - [Github](https://github.com/BhavyaBh289/), [Linkedin](https://www.linkedin.com/in/bhavya-shah-9401a7233/), [Twitter](https://twitter.com/BhavyaBh289)
+
+4. Soham Panchal (Technical Lead) - [GitHub](https://githuh.com/Soham1803), [LinkedIn](https://www.linkedin.com/in/soham-panchal-800968225), [Twitter](https://twitter.com/Soham_desu)
 ## Domains
 
 1. Web
