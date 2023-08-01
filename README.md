@@ -22,6 +22,7 @@
 ## Team
 
 ### Web
+1. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
 
 ### Web3
 
