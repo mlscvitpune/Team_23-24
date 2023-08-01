@@ -2,7 +2,10 @@
 
 ## Core Team
 
+1. Soham Ratnaparkhi (President) - [GitHub](https://github.com/SohamRatnaparkhi), [Linkedin](https://www.linkedin.com/in/soham-ratnaparkhi-3a3775ab/), [Twitter](https://twitter.com/SohamR_7113)
+
 ## Domains
+
 1. Web
 2. Web3
 3. App
@@ -16,11 +19,19 @@
 ## Team
 
 ### Web
+
 ### Web3
+
 ### App
+
 ### AI/ML
+
 ### IoT
+
 ### Multi-media
+
 ### Event Management
+
 ### Partnership Mangagement
+
 ### Community Management
