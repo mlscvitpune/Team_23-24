@@ -27,6 +27,7 @@
 ### App
 
 ### AI/ML
+1. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
 
 ### IoT
 
