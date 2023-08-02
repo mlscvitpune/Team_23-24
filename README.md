@@ -18,7 +18,7 @@
 5. IoT
 6. Multi-media
 7. Event Management
-8. Partnership Mangagement
+8. Partnership Management
 9. Community Management
 
 ## Team
