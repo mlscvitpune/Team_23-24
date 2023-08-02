@@ -43,8 +43,9 @@
 
 ### Event Management
 1. Pranav Patil (Coordinator) - [GitHub](https://github.com/Pannu0), [Linkedin](https://www.linkedin.com/in/pranav-patil-04b945271/), [Twitter](https://twitter.com/PRANAVPATI10955)
+2. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 
 
-### Partnership Mangagement
+### Partnership Management
 
 ### Community Management
