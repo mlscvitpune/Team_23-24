@@ -29,6 +29,8 @@
 2. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
 3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 
+4. Atharv Mandpe ( Web Coordinator ) - [GitHub]([https://github.com/AtharvMandpe]), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
+
 ### Web3
 
 ### App
