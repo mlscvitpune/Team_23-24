@@ -37,7 +37,7 @@
 
 ### AI/ML
 1. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
-2. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin] (https://www.linkedin.com/in/parth-kulkarni-065802271/) 
+2. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/) 
 
 ### IoT
 
