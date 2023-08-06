@@ -38,6 +38,8 @@
 ### AI/ML
 1. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
 2. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/) 
+3. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
+
 
 ### IoT
 
@@ -48,6 +50,7 @@
 2. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 
 
-### Partnership Management
+### Partnership management
 
 ### Community Management
+
