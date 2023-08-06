@@ -46,7 +46,7 @@
 ### Multi-media
 
 ### Event Management
-1. Harsh Mule (Lead) - [Github](https://github.com/harshmule17),[Linkedin](https://www.linkedin.com/in/harsh-mule-63a940229/)
+1. Harsh Mule (Lead) - [Github](https://github.com/harshmule17), [Linkedin](https://www.linkedin.com/in/harsh-mule-63a940229/)
 2. Pranav Patil (Coordinator) - [GitHub](https://github.com/Pannu0), [Linkedin](https://www.linkedin.com/in/pranav-patil-04b945271/), [Twitter](https://twitter.com/PRANAVPATI10955)
 3. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 
