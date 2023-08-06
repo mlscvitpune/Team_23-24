@@ -30,7 +30,8 @@
 3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 
 ### Web3
- Aditya Suryawanshi (Coordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
+1. Gourav Suram (Web3 Co-Ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
+2. Aditya Suryawanshi (Coordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
 
 ### App
 1. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
@@ -47,8 +48,9 @@
 ### Multi-media
 
 ### Event Management
-1. Pranav Patil (Coordinator) - [GitHub](https://github.com/Pannu0), [Linkedin](https://www.linkedin.com/in/pranav-patil-04b945271/), [Twitter](https://twitter.com/PRANAVPATI10955)
-2. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
+1. Harsh Mule (Lead) - [Github](https://github.com/harshmule17), [Linkedin](https://www.linkedin.com/in/harsh-mule-63a940229/)
+2. Pranav Patil (Coordinator) - [GitHub](https://github.com/Pannu0), [Linkedin](https://www.linkedin.com/in/pranav-patil-04b945271/), [Twitter](https://twitter.com/PRANAVPATI10955)
+3. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 
 
 ### Partnership management
