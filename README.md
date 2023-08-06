@@ -30,6 +30,7 @@
 3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 
 ### Web3
+1. Gourav Suram (Web3 Co-Ordinator) [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
 
 ### App
 1. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
