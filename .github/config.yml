@@ -1,5 +1,5 @@
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
-# Comment to be posted to on Pr's merged by a first time user
+# Comment to be posted to on Pr's merged by a first-time user
 firstPRMergeComment: >
-  Pull request meged! Congradulations 🚀  You will soon receive an invitation to join MLSC's GitHub organization and showcase it on your profile!
+  Congrats on merging your first Pull request with MLSC! 🎉🎉🎉  You will soon receive an invitation to join MLSC's GitHub organization and showcase it on your profile!
