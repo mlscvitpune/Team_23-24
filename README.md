@@ -45,8 +45,8 @@
 4. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
 
 ### IoT
-
-Varsha Hulmani (Coordinator) - [GitHub](https://github.com/varshahulmani), [Linkedin](https://www.linkedin.com/in/varsha-hulmani-a29061233/), [Twitter](https://twitter.com/VarshaHulmani?t=A3DSs5aRmv5w8kzq_zCNew&s=09)
+1. Pranav Doshi (Coordinator) - [GitHub](https://github.com/pranav8doshi), [Linkedin](https://www.linkedin.com/in/pranav-doshi-5463b2249/)
+2. Varsha Hulmani (Coordinator) - [GitHub](https://github.com/varshahulmani), [Linkedin](https://www.linkedin.com/in/varsha-hulmani-a29061233/), [Twitter](https://twitter.com/VarshaHulmani?t=A3DSs5aRmv5w8kzq_zCNew&s=09)
 
 ### Multi-media
 1.Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
