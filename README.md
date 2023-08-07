@@ -49,7 +49,7 @@
 Varsha Hulmani (Coordinator) - [GitHub](https://github.com/varshahulmani), [Linkedin](https://www.linkedin.com/in/varsha-hulmani-a29061233/), [Twitter](https://twitter.com/VarshaHulmani?t=A3DSs5aRmv5w8kzq_zCNew&s=09)
 
 ### Multi-media
-
+1.Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
 ### Event Management
 
 1. Harsh Mule (Lead) - [Github](https://github.com/harshmule17), [Linkedin](https://www.linkedin.com/in/harsh-mule-63a940229/)
