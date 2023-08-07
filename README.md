@@ -58,5 +58,5 @@
 4. Rishita Bura (Coordinator) - [GitHub](https://github.com/rishitabura), [Linkedin](https://www.linkedin.com/in/rishita-bura-1a53b9229/), [Twitter](https://twitter.com/rishitabura)
 
 ### Partnership management
-
+2. Omkar Kamble (Coordinator) - [Github](https://github.com/Omkar-2121), [Linkedin](https://www.linkedin.com/in/omkar-kamble-6a26aa230)
 ### Community Management
