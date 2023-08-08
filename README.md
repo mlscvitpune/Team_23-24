@@ -23,9 +23,10 @@
 
 ### Web
 
-1. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
-2. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
-3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
+1. Arpit Patil (Lead) - [Github](https://github.com/ArpitPatil123), [Linkedin](https://www.linkedin.com/in/arpit-patil-88706a272/)
+2. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
+3. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
+4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 
 ### Web3
 
