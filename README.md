@@ -59,5 +59,5 @@
 4. Rishita Bura (Coordinator) - [GitHub](https://github.com/rishitabura), [Linkedin](https://www.linkedin.com/in/rishita-bura-1a53b9229/), [Twitter](https://twitter.com/rishitabura)
 
 ### Partnership management
-
+1.Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
 ### Community Management
