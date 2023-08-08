@@ -60,5 +60,5 @@
 5. Prathamesh Thakare (Coordinator) - [GitHub](https://github.com/pdthakare019), [Linkedin](https://www.linkedin.com/in/prathameshthakare19/)
 
 ### Partnership management
-
+2. Omkar Kamble (Coodinator) - [GitHub](https://github.com/Omkar-2121),[Linkedin](https://www.linkedin.com/in/omkar-kamble-6a26aa230)
 ### Community Management
