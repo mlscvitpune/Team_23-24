@@ -43,6 +43,7 @@
 2. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
 3. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/)
 4. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
+5. Vaishnavi Petkar (Coordinator) - [Github](https://github.com/vaishp2610), [Linkedin](https://www.linkedin.com/in/vaishnavi-petkar-b89853230/)
 
 ### IoT
 1. Pranav Doshi (Coordinator) - [GitHub](https://github.com/pranav8doshi), [Linkedin](https://www.linkedin.com/in/pranav-doshi-5463b2249/)
@@ -56,7 +57,8 @@
 2. Pranav Patil (Coordinator) - [GitHub](https://github.com/Pannu0), [Linkedin](https://www.linkedin.com/in/pranav-patil-04b945271/), [Twitter](https://twitter.com/PRANAVPATI10955)
 3. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 4. Rishita Bura (Coordinator) - [GitHub](https://github.com/rishitabura), [Linkedin](https://www.linkedin.com/in/rishita-bura-1a53b9229/), [Twitter](https://twitter.com/rishitabura)
+5. Prathamesh Thakare (Coordinator) - [GitHub](https://github.com/pdthakare019), [Linkedin](https://www.linkedin.com/in/prathameshthakare19/)
 
 ### Partnership management
-2. Omkar Kamble (Coordinator) - [Github](https://github.com/Omkar-2121), [Linkedin](https://www.linkedin.com/in/omkar-kamble-6a26aa230)
+
 ### Community Management
