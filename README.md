@@ -63,3 +63,5 @@
 ### Partnership management
 1.Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
 ### Community Management
+1. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
+
