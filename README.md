@@ -27,7 +27,8 @@
 2. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
 3. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
 4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
-
+5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
+   
 ### Web3
 
 1. Gourav Suram (Web3 Co-Ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
