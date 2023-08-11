@@ -50,6 +50,7 @@
 4. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
 5. Vaishnavi Petkar (Coordinator) - [Github](https://github.com/vaishp2610), [Linkedin](https://www.linkedin.com/in/vaishnavi-petkar-b89853230/)
 6. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
+7. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
 
 ### IoT
 1. Pranav Doshi (Coordinator) - [GitHub](https://github.com/pranav8doshi), [Linkedin](https://www.linkedin.com/in/pranav-doshi-5463b2249/)
