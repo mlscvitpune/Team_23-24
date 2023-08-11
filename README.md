@@ -59,7 +59,7 @@
 3. Akshay Chame (Coordinator) - [GitHub](https://github.com/akshayram1), [Linkedin](https://www.linkedin.com/in/akshay-chame-b43bb8209/)
 
 ### Multi-media
-1. Rakshanda Giri (Lead)  - [Github](https://github.com/Rakshanda23), [LinkedIn](https://www.linkedin.com/in/rakshanda23/)\ 
+1. Rakshanda Giri (Lead)  - [Github](https://github.com/Rakshanda23), [LinkedIn](https://www.linkedin.com/in/rakshanda23/)                                          
 2.Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
 ### Event Management
 
