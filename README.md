@@ -23,10 +23,12 @@
 
 ### Web
 
-1. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
-2. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
-3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
-
+1. Arpit Patil (Lead) - [Github](https://github.com/ArpitPatil123), [Linkedin](https://www.linkedin.com/in/arpit-patil-88706a272/)
+2. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
+3. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/)
+4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
+5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
+   
 ### Web3
 
 1. Gourav Suram (Web3 Co-Ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
@@ -36,6 +38,9 @@
 
 1. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
 2. Chinmay Inamdar (Application Development Co-Ordinator) - [GitHub](https://github.com/ChinmayInamdar), [Linkedin](www.linkedin.com/in/chinmayinamdar)
+3. Pranav Ratnalikar (Application Development Co-ordinator) - [GitHub](https://github.com/PranavPRatnalikar) , [Linkedin](www.linkedin.com/in/pranav-ratnalikar)
+
+
 
 ### AI/ML
 
@@ -44,11 +49,13 @@
 3. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/)
 4. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
 5. Vaishnavi Petkar (Coordinator) - [Github](https://github.com/vaishp2610), [Linkedin](https://www.linkedin.com/in/vaishnavi-petkar-b89853230/)
-6. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
+6. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
+7. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
 
 ### IoT
 1. Pranav Doshi (Coordinator) - [GitHub](https://github.com/pranav8doshi), [Linkedin](https://www.linkedin.com/in/pranav-doshi-5463b2249/)
 2. Varsha Hulmani (Coordinator) - [GitHub](https://github.com/varshahulmani), [Linkedin](https://www.linkedin.com/in/varsha-hulmani-a29061233/), [Twitter](https://twitter.com/VarshaHulmani?t=A3DSs5aRmv5w8kzq_zCNew&s=09)
+3. Akshay Chame (Coordinator) - [GitHub](https://github.com/akshayram1), [Linkedin](https://www.linkedin.com/in/akshay-chame-b43bb8209/)
 
 ### Multi-media
 1.Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
@@ -61,5 +68,8 @@
 5. Prathamesh Thakare (Coordinator) - [GitHub](https://github.com/pdthakare019), [Linkedin](https://www.linkedin.com/in/prathameshthakare19/)
 
 ### Partnership management
-1.Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
+1. Swarup Deepak Vishwas (Lead) - [GitHub](https://github.com/SwarupVishwas18), [Linkedin](https://www.linkedin.com/in/swarup-vishwas-8895221b9/), [Twitter](https://twitter.com/sdvishwas2312)
+2.Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
 ### Community Management
+1. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
+
