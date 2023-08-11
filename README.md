@@ -31,8 +31,9 @@
    
 ### Web3
 
-1. Gourav Suram (Web3 Co-Ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
-2. Aditya Suryawanshi (Coordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
+1. Mustansir Bohari (Lead) - [GitHub](https://github.com/B-Mustansir), [Linkedin](https://www.linkedin.com/in/bohari-mustansir/), [Twitter](https://twitter.com/MustansirBohari)
+2. Aditya Suryawanshi (Co-ordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
+3. Gourav Suram (Co-ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
 
 ### App
 
