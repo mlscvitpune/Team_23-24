@@ -68,6 +68,7 @@
 3. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 4. Rishita Bura (Coordinator) - [GitHub](https://github.com/rishitabura), [Linkedin](https://www.linkedin.com/in/rishita-bura-1a53b9229/), [Twitter](https://twitter.com/rishitabura)
 5. Prathamesh Thakare (Coordinator) - [GitHub](https://github.com/pdthakare019), [Linkedin](https://www.linkedin.com/in/prathameshthakare19/)
+6. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
 
 ### Partnership management
 1. Swarup Deepak Vishwas (Lead) - [GitHub](https://github.com/SwarupVishwas18), [Linkedin](https://www.linkedin.com/in/swarup-vishwas-8895221b9/), [Twitter](https://twitter.com/sdvishwas2312)
