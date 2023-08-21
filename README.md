@@ -85,3 +85,4 @@
 ### Community Management
 
 1. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
+2. Krishna Nilesh Jaiswal(Coordinator) - [Github](https://github.com/mailmeat-krishna), [Linkedin](https://www.linkedin.com/in/krishna-jaiswal-418160202/)
