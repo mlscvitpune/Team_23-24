@@ -7,6 +7,8 @@
 3. Bhavya Shah (Mangagement Head) - [Github](https://github.com/BhavyaBh289/), [Linkedin](https://www.linkedin.com/in/bhavya-shah-9401a7233/), [Twitter](https://twitter.com/BhavyaBh289)
 4. Soham Panchal (Technical Lead) - [GitHub](https://github.com/Soham1803), [LinkedIn](https://www.linkedin.com/in/soham-panchal-800968225), [Twitter](https://twitter.com/Soham_desu)
 
+5. Shreyash Bele (Multimedia Lead) - [Github](https://github.com/shreyash-bele), [Linkedin](https://www.linkedin.com/in/shreyash-bele/), [Twitter](https://twitter.com/shreyash_bele)
+
 ## Domains
 
 1. Web
