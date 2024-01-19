@@ -36,7 +36,6 @@
 
 1. Mustansir Bohari (Lead) - [GitHub](https://github.com/B-Mustansir), [Linkedin](https://www.linkedin.com/in/bohari-mustansir/), [Twitter](https://twitter.com/MustansirBohari)
 2. Aditya Suryawanshi (Co-ordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
-3. Gourav Suram (Co-ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
 
 ### App
 
@@ -52,10 +51,9 @@
 3. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
 4. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/)
 5. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
-6. Vaishnavi Petkar (Coordinator) - [Github](https://github.com/vaishp2610), [Linkedin](https://www.linkedin.com/in/vaishnavi-petkar-b89853230/)
-7. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
-8. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
-9. Varad Uttarwar (Coordinator) - [Github](https://github.com/Varadut1), [Linkedin](https://www.linkedin.com/in/varad-uttarwar-95816822b/)
+6. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
+7. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
+8. Varad Uttarwar (Coordinator) - [Github](https://github.com/Varadut1), [Linkedin](https://www.linkedin.com/in/varad-uttarwar-95816822b/)
 
 ### IoT
 
