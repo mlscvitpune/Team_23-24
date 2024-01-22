@@ -31,12 +31,13 @@
 4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
 6. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
+7. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
+
 
 ### Web3
 
 1. Mustansir Bohari (Lead) - [GitHub](https://github.com/B-Mustansir), [Linkedin](https://www.linkedin.com/in/bohari-mustansir/), [Twitter](https://twitter.com/MustansirBohari)
 2. Aditya Suryawanshi (Co-ordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
-3. Gourav Suram (Co-ordinator) - [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram/), [Twitter](https://twitter.com/heapbytes)
 
 ### App
 
@@ -52,10 +53,9 @@
 3. Mohit Chawla (Coordinator) - [GitHub](https://github.com/Mohit1345), [Linkedin](https://www.linkedin.com/in/mohit-chawla13), [Twitter](https://twitter.com/chawlamohit1313)
 4. Parth Kulkarni (Coordinator) - [Github](https://github.com/parthkulkarni04), [Linkedin](https://www.linkedin.com/in/parth-kulkarni-065802271/)
 5. Himanshu Patil (Coordinator) - [Github](https://github.com/HimanshuPPatil), [Linkedin](https://www.linkedin.com/in/himanshu-patil-5a9746271/)
-6. Vaishnavi Petkar (Coordinator) - [Github](https://github.com/vaishp2610), [Linkedin](https://www.linkedin.com/in/vaishnavi-petkar-b89853230/)
-7. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
-8. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
-9. Varad Uttarwar (Coordinator) - [Github](https://github.com/Varadut1), [Linkedin](https://www.linkedin.com/in/varad-uttarwar-95816822b/)
+6. Kush Bhakkad (Coordinator) - [GitHub](https://github.com/KushBhakkad), [Linkedin](https://www.linkedin.com/in/kush-bhakkad-3a3b37263)
+7. Bhairavi Pustode (Coordinator) - [Github](https://github.com/Bhairavip2209), [Linkedin](https://www.linkedin.com/in/bhairavi-pustode-b66327235/)
+8. Varad Uttarwar (Coordinator) - [Github](https://github.com/Varadut1), [Linkedin](https://www.linkedin.com/in/varad-uttarwar-95816822b/)
 
 ### IoT
 
@@ -76,7 +76,6 @@
 3. Sujay Patil (Coordinator) - [GitHub](https://github.com/sujaypatil15), [Linkedin](https://www.linkedin.com/in/sujay-patil-a2a0b4232/), [Twitter](https://twitter.com/sujay_1522)
 4. Rishita Bura (Coordinator) - [GitHub](https://github.com/rishitabura), [Linkedin](https://www.linkedin.com/in/rishita-bura-1a53b9229/), [Twitter](https://twitter.com/rishitabura)
 5. Prathamesh Thakare (Coordinator) - [GitHub](https://github.com/pdthakare019), [Linkedin](https://www.linkedin.com/in/prathameshthakare19/)
-6. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
 
 ### Partnership management
 
