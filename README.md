@@ -37,7 +37,7 @@
 
 1. Mustansir Bohari (Lead) - [GitHub](https://github.com/B-Mustansir), [Linkedin](https://www.linkedin.com/in/bohari-mustansir/), [Twitter](https://twitter.com/MustansirBohari)
 2. Aditya Suryawanshi (Co-ordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
-3. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/), [Twitter](https://twitter.com/_arya2004), [Hashnode](https://arya2004.hashnode.dev/)
+3. Arya Pathak (Co-ordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/), [Twitter](https://twitter.com/_arya2004), [Hashnode](https://arya2004.hashnode.dev/)
 
 ### App
 
