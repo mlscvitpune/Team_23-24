@@ -42,7 +42,7 @@
 ### App
 
 1. Akshay Magar (Lead) - [GitHub](https://github.com/akshaymagar2003), [Linkedin](https://www.linkedin.com/in/akshay-magar-387676237/), [Twitter](https://twitter.com/AkshayM11344233)
-2. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
+2. Atharva Deshpande (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
 3. Chinmay Inamdar (Application Development Co-Ordinator) - [GitHub](https://github.com/ChinmayInamdar), [Linkedin](www.linkedin.com/in/chinmayinamdar)
 4. Pranav Ratnalikar (Application Development Co-ordinator) - [GitHub](https://github.com/PranavPRatnalikar) , [Linkedin](www.linkedin.com/in/pranav-ratnalikar)
 
