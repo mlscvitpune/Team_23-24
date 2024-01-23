@@ -32,6 +32,7 @@
 5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
 6. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
 7. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
+8. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
 
 
 ### Web3
