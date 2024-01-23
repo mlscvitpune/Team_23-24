@@ -83,6 +83,7 @@
 1. Swarup Deepak Vishwas (Lead) - [GitHub](https://github.com/SwarupVishwas18), [Linkedin](https://www.linkedin.com/in/swarup-vishwas-8895221b9/), [Twitter](https://twitter.com/sdvishwas2312)
 2. Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
 3. Omkar Kamble (co-ordinator) - [GitHub](https://github.com/Omkar-2121), [Linkedin](https://www.linkedin.com/in/omkar-kamble-6a26aa230)
+4. Aaditya M. Patil (co-ordinator) - [GitHub](https://github.com/Aaditatgithub), [Linkedin](https://www.linkedin.com/in/aaditya-patil-b68899250/)
 
 ### Community Management
 
