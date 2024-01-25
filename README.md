@@ -27,18 +27,18 @@
 
 1. Arpit Patil (Lead) - [Github](https://github.com/ArpitPatil123), [Linkedin](https://www.linkedin.com/in/arpit-patil-88706a272/)
 2. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
-3. Arya Pathak (Web Coordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/), [Twitter](https://twitter.com/_arya2004), [Hashnode](https://arya2004.hashnode.dev/)
-4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
-5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
-6. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
-7. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
-8. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
+3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
+4. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
+5. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
+6. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
+7. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
 
 
 ### Web3
 
 1. Mustansir Bohari (Lead) - [GitHub](https://github.com/B-Mustansir), [Linkedin](https://www.linkedin.com/in/bohari-mustansir/), [Twitter](https://twitter.com/MustansirBohari)
 2. Aditya Suryawanshi (Co-ordinator) - [GitHub](https://github.com/Adidem23), [Linkedin](https://www.linkedin.com/in/aditya-suryawanshi-945145235/), [Twitter](https://twitter.com/SURYAWANSHIADI3)
+3. Arya Pathak (Co-ordinator) - [GitHub](https://github.com/arya2004), [Linkedin](https://www.linkedin.com/in/arya-pathak-a53a58256/), [Twitter](https://twitter.com/_arya2004), [Hashnode](https://arya2004.hashnode.dev/)
 
 ### App
 
