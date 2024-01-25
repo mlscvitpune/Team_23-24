@@ -31,6 +31,7 @@
 4. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
 5. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
 6. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
+7. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
 
 
 ### Web3
@@ -42,7 +43,7 @@
 ### App
 
 1. Akshay Magar (Lead) - [GitHub](https://github.com/akshaymagar2003), [Linkedin](https://www.linkedin.com/in/akshay-magar-387676237/), [Twitter](https://twitter.com/AkshayM11344233)
-2. Atharva Deshpand (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
+2. Atharva Deshpande (Application Development Co-Ordinator) - [GitHub](https://github.com/aadeshp1), [Linkedin](https://www.linkedin.com/in/aad19/)
 3. Chinmay Inamdar (Application Development Co-Ordinator) - [GitHub](https://github.com/ChinmayInamdar), [Linkedin](www.linkedin.com/in/chinmayinamdar)
 4. Pranav Ratnalikar (Application Development Co-ordinator) - [GitHub](https://github.com/PranavPRatnalikar) , [Linkedin](www.linkedin.com/in/pranav-ratnalikar)
 
@@ -82,6 +83,7 @@
 1. Swarup Deepak Vishwas (Lead) - [GitHub](https://github.com/SwarupVishwas18), [Linkedin](https://www.linkedin.com/in/swarup-vishwas-8895221b9/), [Twitter](https://twitter.com/sdvishwas2312)
 2. Swaraj Sunilkumar Phand (co-ordinator) - [GitHub](https://github.com/Swaraj7700), [Linkedin](https://www.linkedin.com/in/swaraj-phand-037995248/), [Twitter](https://twitter.com/swaraj_phand)
 3. Omkar Kamble (co-ordinator) - [GitHub](https://github.com/Omkar-2121), [Linkedin](https://www.linkedin.com/in/omkar-kamble-6a26aa230)
+4. Aaditya M. Patil (co-ordinator) - [GitHub](https://github.com/Aaditatgithub), [Linkedin](https://www.linkedin.com/in/aaditya-patil-b68899250/)
 
 ### Community Management
 
