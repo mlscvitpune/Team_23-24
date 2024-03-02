@@ -1,4 +1,4 @@
-# MLSC Team 23-24
+[# MLSC Team 23-24
 
 ## Core Team
 
@@ -26,12 +26,13 @@
 ### Web
 
 1. Arpit Patil (Lead) - [Github](https://github.com/ArpitPatil123), [Linkedin](https://www.linkedin.com/in/arpit-patil-88706a272/)
-2. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
-3. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
-4. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
-5. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
-6. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
-7. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
+2. Chirag belani (Web Co-ordinator) - [Github](https://github.com/ChiragBelani), [LinkedIn](https://in.linkedin.com/in/chirag-belani-193a00268/)
+3. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
+4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
+5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
+6. Atharv Mandpe (Web Co-ordinator) - [GitHub](https://github.com/AtharvMandpe), [Linkedin](https://www.linkedin.com/in/atharv-mandpe/)
+7. Bhavesh Agone (Coordinator) - [GitHub](https://github.com/techcodebhavesh), [LinkedIn](https://www.linkedin.com/in/bhavesh-agone-638308252), [Twitter](https://twitter.com/BhaveshAgone)
+8. Varad Kulkarni (Web Coordinator) - [Github](https://github.com/varad-kulkarni172), [LinkedIn](https://www.linkedin.com/in/varad-kulkarni-675504264/), [Twitter](https://twitter.com/KulVarad172004)
 
 
 ### Web3
@@ -89,3 +90,4 @@
 
 1. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
 2. Krishna Nilesh Jaiswal(Coordinator) - [Github](https://github.com/mailmeat-krishna), [Linkedin](https://www.linkedin.com/in/krishna-jaiswal-418160202/)
+](https://github.com/mlscvitpune/Team_23-24.git)https://github.com/mlscvitpune/Team_23-24.git
