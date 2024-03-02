@@ -1,4 +1,4 @@
-[# MLSC Team 23-24
+# MLSC Team 23-24
 
 ## Core Team
 
