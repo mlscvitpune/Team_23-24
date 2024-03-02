@@ -26,7 +26,7 @@
 ### Web
 
 1. Arpit Patil (Lead) - [Github](https://github.com/ArpitPatil123), [Linkedin](https://www.linkedin.com/in/arpit-patil-88706a272/)
-2. Chirag belani (Web Co-ordinator) - [Github](https://github.com/ChiragBelani), [LinkedIn](https://in.linkedin.com/in/chirag-belani-193a00268/)
+2. Chirag Belani (Web Co-ordinator) - [Github](https://github.com/ChiragBelani), [LinkedIn](https://in.linkedin.com/in/chirag-belani-193a00268/)
 3. Parag Purandare (Web-Co-ordinator) - [GitHub](https://github.com/paragpurandare), [Linkedin](https://www.linkedin.com/in/parag-purandare-9ba399235/), [Twitter](https://twitter.com/purandare_parag)
 4. Divesh Mahajan (Web Coordinator) - [Github](https://github.com/Diveshmahajan4), [Linkedin](https://www.linkedin.com/in/divesh-mahajan-43a585216/), [Twitter](https://twitter.com/diveshtwt), [Hashnode](https://blog.diveshmahajan.tech/).
 5. Ashish Jha (Web Co-ordinator) - [GitHub](https://github.com/ashishjha1034), [Linkedin](https://www.linkedin.com/in/ashishkumar-jha-a75b18250/)
