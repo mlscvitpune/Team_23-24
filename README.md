@@ -69,7 +69,7 @@
 1. Rakshanda Giri (Lead) - [Github](https://github.com/Rakshanda23), [LinkedIn](https://www.linkedin.com/in/rakshanda23/)
 2. Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
 3. Aayush Chavan(Coordinator) -[Github](https://github.com/Aayushcoding), [LinkedIn](https://www.linkedin.com/in/aayush-chavan-610b8b259/)
-4. Anurag Deshmukh(Coordinator) -[Github](https://github.com/anuragd0825), [LinkedIn] (https://www.linkedin.com/in/anurag-deshmukh-75a533250/) 
+4. Anurag Deshmukh(Coordinator) -[Github](https://github.com/anuragd0825), [LinkedIn](https://www.linkedin.com/in/anurag-deshmukh-75a533250/) 
 
 ### Event Management
 
