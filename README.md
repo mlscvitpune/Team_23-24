@@ -61,6 +61,7 @@
 ### Multi-media
 1. Rakshanda Giri (Lead)  - [Github](https://github.com/Rakshanda23), [LinkedIn](https://www.linkedin.com/in/rakshanda23/)
 2. Swarnim Yawale (Coordinator) - [Github](https://github.com/Swarnim-Yawale), [LinkedIn](https://www.linkedin.com/in/swarnim-yawale-142109264/)
+3. Prathmesh Vhasale(Coordinator) - [Github](https://github.com/prathmeshvhasale), [LinkedIn](https://www.linkedin.com/in/prathmesh-vhasale-7b232b259/)
 ### Event Management
 
 1. Harsh Mule (Lead) - [Github](https://github.com/harshmule17), [Linkedin](https://www.linkedin.com/in/harsh-mule-63a940229/)
