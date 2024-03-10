@@ -60,6 +60,7 @@
 8. Varad Uttarwar (Coordinator) - [Github](https://github.com/Varadut1), [Linkedin](https://www.linkedin.com/in/varad-uttarwar-95816822b/)
 
 ### IoT
+1. Krushna Patil (Coordinator) - [GitHub](https://github.com/Krusshnaa), [Linkedin](https://www.linkedin.com/in/krushna-patil-85a672282/)
 
 1. Pranav Doshi (Coordinator) - [GitHub](https://github.com/pranav8doshi), [Linkedin](https://www.linkedin.com/in/pranav-doshi-5463b2249/)
 2. Varsha Hulmani (Coordinator) - [GitHub](https://github.com/varshahulmani), [Linkedin](https://www.linkedin.com/in/varsha-hulmani-a29061233/), [Twitter](https://twitter.com/VarshaHulmani?t=A3DSs5aRmv5w8kzq_zCNew&s=09)
