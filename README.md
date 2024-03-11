@@ -91,5 +91,6 @@
 
 ### Community Management
 
-1. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
-2. Krishna Nilesh Jaiswal(Coordinator) - [Github](https://github.com/mailmeat-krishna), [Linkedin](https://www.linkedin.com/in/krishna-jaiswal-418160202/)
+1. Ram Tushar Khartadkar (Lead) - [Github](https://github.com/ramkhartadkar) ,[Linkedin] (https://www.linkedin.com/in/ram-khartadkar-365548230) ,[Twitter/X] (https://twitter.com/Ramkhartadkar07)
+2. Anushka Waghmare(co-ordinator) - [GitHub](https://github.com/Anushka068) ,[Linkedin](https://www.linkedin.com/in/anushka-waghmare-104865261)
+3. Krishna Nilesh Jaiswal(Coordinator) - [Github](https://github.com/mailmeat-krishna), [Linkedin](https://www.linkedin.com/in/krishna-jaiswal-418160202/)
